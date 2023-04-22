@@ -1,0 +1,22 @@
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 100px!important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.rotate-img-3 img {
+  transform: rotate(3deg);
+}
+
+.rotate-img-9 img {
+  transform: rotate(9deg);
+}
+
+.rotate-img-354 img {
+  transform: rotate(354deg);
+}
+
+.rotate-img-348 img {
+  transform: rotate(348deg);
+}

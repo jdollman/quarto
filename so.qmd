@@ -1,0 +1,52 @@
+---
+title: "Stacked"
+format: 
+  revealjs:
+    css: logo.css
+editor: source
+---
+
+##
+
+::::{layout-ncol=2}
+
+::: {.r-stack}
+
+![](statehouse.jpg){.fragment}
+
+::: rotate-img-3
+![](grumbach.png){.fragment}
+:::
+
+::: rotate-img-354
+![](increasingly.jpg){.fragment}
+:::
+
+::: rotate-img-9
+![](red_state.jpg){.fragment}
+:::
+
+::: rotate-img-348
+![](dynamic_dem.jpg){.fragment}
+:::
+:::
+
+::: {.r-stack}
+
+![](538_1.png){.fragment}
+
+::: rotate-img-3
+![](538_2.png){.fragment}
+:::
+
+::: rotate-img-354
+![](538_3.png){.fragment}
+:::
+
+::: rotate-img-9
+![](538_4.png){.fragment}
+:::
+
+:::
+
+::::
